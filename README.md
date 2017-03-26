@@ -1,2 +1,3 @@
 # Demo_PhotoGallery
-Sailing Gallery Project 
+# Sailing Gallery Web Site.
+Created as the CS50 Final Project. 
